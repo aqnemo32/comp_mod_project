@@ -1,0 +1,4 @@
+# dt	Numstep
+5e-3	20000
+#N_Particles	Rho(cm3/mol)	Temperature(kelvins)
+90	700	180
